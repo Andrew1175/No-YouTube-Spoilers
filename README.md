@@ -18,3 +18,7 @@ Key Features:
 - Works on videos, shorts, and suggested videos.
 - NO data collection.
 - Lightweight and easy to use.
+
+Support:
+- Bug and Feature Requests: https://github.com/Andrew1175/No-YouTube-Spoilers/issues/new/choose
+- Buy Me a Beer: https://buymeacoffee.com/thewisestguy
