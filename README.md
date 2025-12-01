@@ -1,6 +1,4 @@
 # No-YouTube-Spoilers
-Blur and hide spoilers on YouTube titles and thumbnails based on blocked keywords.
-
 Firefox Download:
 https://addons.mozilla.org/en-US/firefox/addon/no-youtube-spoilers/
 
