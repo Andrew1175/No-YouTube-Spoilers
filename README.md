@@ -7,7 +7,7 @@ TBA
 
 “No YouTube Spoilers” lets you browse YouTube without those annoying plot reveals in thumbnails or titles. It automatically blurs or hides videos containing keywords you’ve blocked.
 
-USAGE:
+Usage:
 - Add keywords to 'Blurred Spoiler Keywords' for content you don't want spoiled. This will blur the video thumbnail and change the title to "SPOILER FOR: {keyword}".
 - Add keywords to 'Blocked Content Keywords' for content you simply don’t want to see on YouTube. This will completely remove the video from your feed.
 
