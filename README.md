@@ -3,7 +3,7 @@ Firefox Download:
 https://addons.mozilla.org/en-US/firefox/addon/no-youtube-spoilers/
 
 Chrome Download:
-TBA
+https://chromewebstore.google.com/detail/pdcocbmidjifbikkgfedadbemddmpnek?utm_source=item-share-cb
 
 “No YouTube Spoilers” lets you browse YouTube without those annoying plot reveals in thumbnails or titles. It automatically blurs or hides videos containing keywords you’ve blocked.
 
