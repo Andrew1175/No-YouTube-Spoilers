@@ -8,13 +8,14 @@ https://chromewebstore.google.com/detail/pdcocbmidjifbikkgfedadbemddmpnek?utm_so
 “No YouTube Spoilers” lets you browse YouTube without those annoying plot reveals in thumbnails or titles. It automatically blurs or hides videos containing keywords you’ve blocked.
 
 Usage:
-- Add keywords to 'Blurred Spoiler Keywords' for content you don't want spoiled. This will blur the video thumbnail and change the title to "SPOILER FOR: {keyword}".
-- Add keywords to 'Blocked Content Keywords' for content you simply don’t want to see on YouTube. This will completely remove the video from your feed.
+- Add keywords or channels to 'Blur Rules' for content you don't want spoiled. This will blur the video thumbnail and change the title to "SPOILER FOR: {keyword}".
+- Add keywords to 'Block Rules' for content you simply don’t want to see on YouTube. This will completely remove the video from your feed.
 
 Key Features:
-- Blur and hide video titles and thumbnails containing blocked spoiler keywords.
-- Remove videos from your feed containing blocked content keywords.
+- Blur and hide video titles and thumbnails containing blocked spoiler keywords or channels.
+- Remove videos from your feed containing blocked content keywords or channels.
 - Fully customizable keyword lists.
+- Ability to Import and Export your settings and lists. Share your lists with your friends!
 - Works on videos, shorts, and suggested videos.
 - NO data collection.
 
